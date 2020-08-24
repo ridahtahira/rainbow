@@ -2,5 +2,6 @@ Yellow
 green
 blue 
 red
+indigo
 violet
 
