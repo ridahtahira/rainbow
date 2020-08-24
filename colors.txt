@@ -2,6 +2,7 @@ Yellow
 green
 blue 
 red
+unicorn
 indigo
 violet
-
+These are the colors of the rainbow and the unicorn
